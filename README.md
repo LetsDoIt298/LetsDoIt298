@@ -2,7 +2,7 @@
 <h3 align="center">Driven by Data, Advancing AI.</h3>
 
 
-![snake gif](https://github.com/LetsDoIt298/LetsDoIt298/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/LetsDoIt298/LetsDoIt298/blob/output/github-snake.svg)
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letsdoit298&label=Profile%20views&color=0e75b6&style=flat" alt="letsdoit298" /> </p>
