@@ -1,13 +1,13 @@
 <h1 align="center">Hey Buddy!👋 Alankar Sharma this side</h1>
 <h3 align="center">Driven by Data, Advancing AI.</h3>
 
-###
+
 <img src="https://raw.githubusercontent.com/letsdoit298/letsdoit298/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letsdoit298&label=Profile%20views&color=0e75b6&style=flat" alt="letsdoit298" /> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alankar-sharma-1985401a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alankar-sharma-1985401a5/" height="30" width="40" /></a>
 </p>
