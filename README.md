@@ -2,7 +2,7 @@
 <h3 align="center">Driven by Data, Advancing AI.</h3>
 
 
-<img src="https://raw.githubusercontent.com/letsdoit298/letsdoit298/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/LetsDoIt298/LetsDoIt298/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
